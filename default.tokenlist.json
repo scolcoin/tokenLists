@@ -1,0 +1,62 @@
+{
+  "name": "ICOL Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "http://dex.scolcoin.com/logo.png",
+  "keywords": ["icol", "default"],
+  "tokens": [
+    {
+      "name": "Wrap SCOL",
+      "symbol": "WSCOL",
+      "address": "0xB3F34bd27FC83f3792dFedf60210257C0c62Fd58",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "http://dex.scolcoin.com/images/tokens/0xB3F34bd27FC83f3792dFedf60210257C0c62Fd58.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe0e0bAD30C4e4Fbfa0e6687509Be9e939808eE72",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "http://dex.scolcoin.com/images/tokens/0xe0e0bAD30C4e4Fbfa0e6687509Be9e939808eE72.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xDA9eFA00a9A89EAEBcFaF3A3b0eA760e07A3AC04",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "http://dex.scolcoin.com/images/tokens/0xDA9eFA00a9A89EAEBcFaF3A3b0eA760e07A3AC04.png"
+    },
+    {
+      "name": "ICOL",
+      "symbol": "ICOL",
+      "address": "0xCc3FEba5d10Cb33528908143f613880838F7A690",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "http://dex.scolcoin.com/images/tokens/0xCc3FEba5d10Cb33528908143f613880838F7A690.png"
+    },
+    {
+      "name": "Granacoin",
+      "symbol": "GRACO",
+      "address": "0x988e9dc8855DfF6f244412E2830A011514b0865a",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "https://dex.scolcoin.com/images/tokens/0x988e9dc8855DfF6f244412E2830A011514b0865a.png"
+    },
+    {
+      "name": "Scolcoin Token",
+      "symbol": "SCOL",
+      "address": "0x988e9dc8855DfF6f244412E2830A011514b0865a",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "https://dex.scolcoin.com/images/tokens/0xf25bFda0E59E9f946eA85Df4B9D52d298a3a7E81.png"
+    }
+  ]
+}
