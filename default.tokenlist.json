@@ -57,6 +57,14 @@
       "chainId": 65450,
       "decimals": 18,
       "logoURI": "https://dex.scolcoin.com/images/tokens/0xf25bFda0E59E9f946eA85Df4B9D52d298a3a7E81.png"
+    },
+    {
+      "name": "Ecoduende",
+      "symbol": "ECO",
+      "address": "0xC618f2d90655Dbe11593298f1E225fDb69B4527C",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "https://dex.scolcoin.com/images/tokens/0xC618f2d90655Dbe11593298f1E225fDb69B4527C.png"
     }
   ]
 }
