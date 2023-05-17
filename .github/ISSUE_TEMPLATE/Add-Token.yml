@@ -54,6 +54,5 @@ body:
     attributes:
       label: Url del Logo
       description: El aspect:ratio del logo debe ser 1:1, es decir, puede ser resolucion 512x512
-      placeholder: https://raw.githubusercontent.com/scolcoin/tokenLists/main/images/tokens/0xC618f2d90655Dbe11593298f1E225fDb69B4527C.png
     validations:
       required: true
