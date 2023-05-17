@@ -10,7 +10,7 @@ body:
       value: |
         Me gustaría mucho que la agreguen por favor!
   - type: input
-    id: ticker_token
+    id: name_token
     attributes:
       label: Nombre Completo del Token
       description: Nombre que tien tu token
