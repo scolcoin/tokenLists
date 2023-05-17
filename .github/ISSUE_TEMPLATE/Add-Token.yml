@@ -32,7 +32,7 @@ body:
       description: Pagina web de tu token (Tambien se acepta grupo de telegram)
       placeholder: https://www.example.com
     validations:
-      required: true
+      required: false
   - type: input
     id: contact
     attributes:
@@ -40,7 +40,7 @@ body:
       description: ¿Cómo podemos ponernos en contacto con usted si necesitamos más información?
       placeholder: ex. email@example.com
     validations:
-      required: true
+      required: false
   - type: textarea
     id: contract-address
     attributes:
