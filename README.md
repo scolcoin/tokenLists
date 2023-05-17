@@ -4,12 +4,19 @@ List Token dex.scolcoin.com
 All the tokens are in `tokens.ts`. They are instances of the `Token` class defined in the SDK
 Format:
 `graco: new Token(
+
      MAINNET,
+     
      '0x988e9dc8855DfF6f244412E2830A011514b0865a',
+     
      18,
+     
      'GRACO',
+     
      'GRANACOIN',
+     
      'https://granacoin.com.co/',
+     
    ),`
 
 
