@@ -31,7 +31,7 @@ example:
 
 `images/tokens/`
 
-and and in the format:
+and in the format:
    `
    {
       "name": "Granacoin",
