@@ -34,5 +34,13 @@ export const mainnetTokens = defineTokens({
     'ECO',
     'ECODUENDE',
     'https://ecoduende.scolcoin.com/',
+  ),
+  abe: new Token(
+    MAINNET,
+    '0x5d7bBef116733A7F52538689CCeafce4Eb31FEe7',
+    18,
+    'ABE',
+    'ABE',
+    '',
   )
 } as const)
