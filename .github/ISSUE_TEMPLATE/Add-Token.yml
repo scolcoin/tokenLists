@@ -54,5 +54,6 @@ body:
     attributes:
       label: Url del Logo
       description: El aspect:ratio del logo debe ser 1:1, es decir, puede ser resolucion 512x512
+      placeholder: "URL de la imagen"
     validations:
       required: true
