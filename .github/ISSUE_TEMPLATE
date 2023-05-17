@@ -1,0 +1,59 @@
+name: Add Token
+description: Add new token to the official list
+title: "[Add]: "
+labels: ["add", "add-token"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Me gustaría mucho que la agreguen por favor!
+  - type: input
+    id: ticker_token
+    attributes:
+      label: Nombre Completo del Token
+      description: Nombre que tien tu token
+      placeholder: Icolcoin
+    validations:
+      required: true
+  - type: input
+    id: ticker_token
+    attributes:
+      label: Iniciales del Token
+      description: Iniciales / Tickker de tu moneda
+      placeholder: BTC
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      description: Pagina web de tu token (Tambien se acepta grupo de telegram)
+      placeholder: https://www.example.com
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Datos de contacto
+      description: ¿Cómo podemos ponernos en contacto con usted si necesitamos más información?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: contract-address
+    attributes:
+      label: Contract Address
+      description: Direccion de contacto de tu token
+      placeholder: 0xCc3FEba5d10Cb33528908143f613880838F7A690
+    validations:
+      required: true
+  - type: input
+    id: logo
+    attributes:
+      label: Url del Logo
+      description: El aspect:ratio del logo debe ser 1:1, es decir, puede ser resolucion 512x512
+      placeholder: https://raw.githubusercontent.com/scolcoin/tokenLists/main/images/tokens/0xC618f2d90655Dbe11593298f1E225fDb69B4527C.png
+    validations:
+      required: true
