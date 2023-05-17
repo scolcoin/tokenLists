@@ -46,7 +46,7 @@ body:
     attributes:
       label: Contract Address
       description: Direccion de contacto de tu token
-      placeholder: 0xCc3FEba5d10Cb33528908143f613880838F7A690
+      placeholder: "0xCc3FEba5d10Cb33528908143f613880838F7A690"
     validations:
       required: true
   - type: input
