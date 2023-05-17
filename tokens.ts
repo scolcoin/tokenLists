@@ -26,5 +26,13 @@ export const mainnetTokens = defineTokens({
     'SCOL',
     'SCOLCOIN TOKEN',
     'https://scolcoin.com/',
+  ),
+  eco: new Token(
+    MAINNET,
+    '0xC618f2d90655Dbe11593298f1E225fDb69B4527C',
+    18,
+    'ECO',
+    'ECODUENDE',
+    'https://ecoduende.scolcoin.com/',
   )
 } as const)
