@@ -65,6 +65,14 @@
       "chainId": 65450,
       "decimals": 18,
       "logoURI": "https://dex.scolcoin.com/images/tokens/0xC618f2d90655Dbe11593298f1E225fDb69B4527C.png"
+    },
+    {
+      "name": "ABE",
+      "symbol": "ABE",
+      "address": "0x5d7bBef116733A7F52538689CCeafce4Eb31FEe7",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "https://dex.scolcoin.com/images/tokens/0x5d7bBef116733A7F52538689CCeafce4Eb31FEe7.png"
     }
   ]
 }
