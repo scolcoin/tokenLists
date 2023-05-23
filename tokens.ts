@@ -42,5 +42,13 @@ export const mainnetTokens = defineTokens({
     'ABE',
     'ABE',
     '',
+  ),
+  tuxa: new Token(
+    MAINNET,
+    '0x6406a6Ed412d03134e4253831A99fDcB26dd3842',
+    18,
+    'TUXA',
+    'Tuxappcoin',
+    'tuxapp.online',
   )
 } as const)
