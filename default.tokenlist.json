@@ -74,5 +74,14 @@
       "decimals": 18,
       "logoURI": "https://dex.scolcoin.com/images/tokens/0x5d7bBef116733A7F52538689CCeafce4Eb31FEe7.png"
     }
+    ,
+    {
+      "name": "Tuxappcoin",
+      "symbol": "TUXA",
+      "address": "0x6406a6Ed412d03134e4253831A99fDcB26dd3842",
+      "chainId": 65450,
+      "decimals": 18,
+      "logoURI": "https://dex.scolcoin.com/images/tokens/0x5d7bBef116733A7F52538689CCeafce4Eb31FEe7.png"
+    }
   ]
 }
